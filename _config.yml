@@ -21,7 +21,7 @@ repository               : "kittitater/kittitat"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
+  avatar           : "profile-image.png"
   name             : "Kittitat Songsakseree"
   pronouns         : # example: "she/her"  
   bio              : "This my web biography"
