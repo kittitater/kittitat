@@ -10,7 +10,7 @@
 locale                   : "en-US"
 title                    : "Kittitat Biography"
 title_separator          : "-"
-name                     : &name "Your Name"
+name                     : &name "Kittitat Songsakseree"
 description              : &description "personal description"
 url                      : https://academicpages.github.io # the base hostname & protocol for your site e.g. "https://[your GitHub username].github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -24,19 +24,19 @@ author:
   avatar           : "profile.png"
   name             : "Kittitat Songsakseree"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "This my web biography"
+  location         : "Bangkok, Thailand"
   employer         : "Red Brick University"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "kittitat.song@kmutt.ac.th" 
 
   # Academic websites
   arxiv            : # URL - Update with the correct link to your profile
-  googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
+  googlescholar    : "#"
   impactstory      : # URL
-  orcid            : "http://orcid.org/yourorcidurl"
+  orcid            : "#"
   semantic         : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "#"
   researchgate     : # URL
   scopus           : # URL
 
